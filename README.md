@@ -93,13 +93,8 @@
 
 </div>
 
----
-
-
----
-
 <div align="center">
 
-> "Code is not just what you build — it’s how you think."
+"Code is not just what you build — it’s how you think."
 
 </div>
